@@ -6466,6 +6466,8 @@ Also note, the SNAP packages are for using a snappable style connector. We sell 
 <text x="10.16" y="50.8" size="1.778" layer="94">1wire sensors</text>
 <text x="269.24" y="147.32" size="1.778" layer="94">SET</text>
 <text x="325.12" y="147.32" size="1.778" layer="94">UNSET</text>
+<text x="297.18" y="180.34" size="1.778" layer="94">RELAY</text>
+<text x="302.26" y="60.96" size="1.778" layer="94">ADC</text>
 </plain>
 <instances>
 <instance part="C7" gate="G$1" x="73.66" y="137.16"/>
